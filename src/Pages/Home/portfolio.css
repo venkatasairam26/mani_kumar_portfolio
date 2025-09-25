@@ -14,6 +14,7 @@
     align-items: center;
     padding:3rem 2rem 3rem ;
     margin: auto;
+    min-height: 100vh;
 }
 .left-cont{
     width: 50%;

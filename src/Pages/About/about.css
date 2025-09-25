@@ -1,6 +1,6 @@
 .about{
     padding: 3rem 0rem;
-    height: 100vh;
+    min-height: 100vh;
 }
 .about h1{
     font-size: 2rem;
