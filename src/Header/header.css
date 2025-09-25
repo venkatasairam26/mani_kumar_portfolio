@@ -6,10 +6,10 @@
     color: #fff;
 }
 .nav-link:hover{
-    color: #ff0000;
+    color: #3bc5af;
 }
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
-    color: #ff0000;
+    color: #3bc5af;
 }
 .logo{
     width: 120px;
