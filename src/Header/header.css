@@ -1,0 +1,16 @@
+.nav-bar{
+    padding: 1rem;
+    
+}
+.nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+    color: #ff0000;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    color: #ff0000;
+}
+.logo{
+    width: 120px;
+}
